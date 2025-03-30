@@ -6,4 +6,4 @@ RUN apt-get update && \
     && rm -rf /var/lib/apt/lists/*
 RUN pip install --no-cache-dir --upgrade pip && \
     pip install --no-cache-dir -r master.txt
-CMD ["python", "./main.py"]
+CMD gunicorn app:app & python3 main.py
