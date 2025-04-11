@@ -1,6 +1,7 @@
 pyrofork 
-tgcrypto==1.2.5 
+tgcrypto
 requests 
+modules
 aiohttp 
 aiofiles 
 certifi 
