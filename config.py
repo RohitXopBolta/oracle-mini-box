@@ -2,14 +2,14 @@ import os
 
 class Config(object):
     # Telegram Bot ka token
-    BOT_TOKEN = "7124775629:AAE9eMf1zeapu0SMsjQ6YGl60xUA58Txy5Y"
+    BOT_TOKEN = ""
     # Telegram API ki ID
     API_ID = 21623728
     # Telegram API k
     API_HASH = "68841bec35e89a4056ccc8b8d64c0ddd"
     ADMIN_ID = 1452389189,1452389189
     # MongoDB database ka URL
-    DB_URL = "mongodb+srv://flame:flame@cluster0.opflfqs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    DB_URL = ""
     # Database ka naam
     DB_NAME = "Cluster0"
     # Text log channel ki ID
