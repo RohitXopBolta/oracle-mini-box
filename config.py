@@ -2,26 +2,26 @@ import os
 
 class Config(object):
     # Telegram Bot ka token
-    BOT_TOKEN = "7691840233:AAHBaGXslIUZzZdhenSDAzUNxOIqjqetulM"
+    BOT_TOKEN = ""
     # Telegram API ki ID
-    API_ID = 20222576
+    API_ID = 21623728
     # Telegram API k
-    API_HASH = "c5df57f366bc4ee7f7d7af574f817fb8"
-    ADMIN_ID = 7029363479,123456789
+    API_HASH = "68841bec35e89a4056ccc8b8d64c0ddd"
+    ADMIN_ID = 1452389189,1452389189
     # MongoDB database ka URL
-    DB_URL = "mongodb+srv://neoayush444:3kuwGf9jKicbDxvT@cluster0.f9vq7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    DB_URL = ""
     # Database ka naam
     DB_NAME = "Cluster0"
     # Text log channel ki ID
-    TXT_LOG = -1002626068278
+    TXT_LOG = --1002536308214
     # Authentication log channel ki ID
-    AUTH_LOG = -1002626068278
+    AUTH_LOG = -1002536308214
     # Hit log channel ki ID
-    HIT_LOG = -1002626068278
+    HIT_LOG = -1002536308214
     # DRM dump channel ki ID
-    DRM_DUMP = -1002626068278
+    DRM_DUMP = -1002536308214
     # Main channel ki ID
-    CHANNEL = -1002626068278
+    CHANNEL = -1002536308214
     # Channel ka link
     CH_URL = "https://t.me/+czCYprhFVXM3MzQ1"
     # Bot ke owner ka Telegram link
